@@ -1,2 +1,2 @@
 # PWebEntregaUnoAragon
-Primer entrega de trabajo realiazo 
+Primer entrega de trabajo realizado utilizando lenguaje HTML5 y CSS. 
