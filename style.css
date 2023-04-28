@@ -1,0 +1,91 @@
+body {
+    background-color: bisque;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 500;
+    padding: 50px;
+    border-style:groove;
+    border-color:black;
+}
+
+#titulo {
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+    font-weight: 500;
+    
+}
+
+#imagen {
+    float: right;
+    padding: 90px;
+}
+
+#Nombre {
+    text-align:center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:xx-large;
+    border-style:solid;
+    border-color: black;
+    text-decoration-color: black;
+    font-weight: 500;
+}
+
+#infoPersonal {
+    font-size: large;
+    text-align:left;
+    font-weight: 500;
+}
+
+
+#ExperienciaLaboral {
+    text-align:left;
+    font-weight: 500;
+    font-size: large;
+
+}
+
+
+#educacion {
+    text-align:left;
+    font-weight: 500;
+    font-size: large;
+}
+
+#IDIOMAS {
+    text-align:left;
+    font-weight: 500;
+    font-size: large;
+}
+
+#Idioma {
+    font-size: large;
+    font-weight: 500;
+}
+
+#Contacto {
+    text-align:center;
+    font-size: x-large;
+    font-style: italic;
+    font-weight: 500;
+    font-size: large;
+   
+}
+
+#formulario {
+    font-size: x-large;
+    font-style: italic;
+}
+
+#enviar {
+    font-size: larger;
+    size: 20px;
+}
+
+
+
+#PieDePagina {
+    text-align:center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 500;
+
+}
